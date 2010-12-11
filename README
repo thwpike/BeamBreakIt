@@ -1,0 +1,18 @@
+BeamBreakIt:
+============
+
+A simple Arduino based application that integrates a pair of beam break sensors with a
+Ruby on Rails application via a REST API.
+
+Getting Started:
+================
+
+Arduino
+-------
+
+1. Download and install Arduino 0018 (later versions do not currently work with the
+   EthernetDHCP and EthernetDNS libraries used.
+2. Download the EthernetDHCP and EthernetDNS libraries from
+   http://gkaindl.com/software/arduino-ethernet/dhcp.  Unzip the libraries into the
+   Arduino library folder.
+3. Compile, upload and away you go!
