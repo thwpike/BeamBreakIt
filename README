@@ -4,6 +4,12 @@ BeamBreakIt:
 A simple Arduino based application that integrates a pair of beam break sensors with a
 Ruby on Rails application via a REST API.
 
+Project Layout:
+===============
+
+* arduino/  Source code for use in the arduino.
+* hardware/ Schematics and PCB layouts for arduino shield.
+
 Getting Started:
 ================
 
